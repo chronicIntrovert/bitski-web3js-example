@@ -4,7 +4,7 @@ import Web3 from "web3";
 
 const bitski = new Bitski(
   "1812bcfa-44ab-48e3-87b2-b06de6c8e89d",
-  "https://g3dbd0-5173.csb.app/callback.html"
+  "https://ecrvby-5173.csb.app/callback.html"
 );
 
 function App() {
